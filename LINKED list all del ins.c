@@ -1,3 +1,4 @@
+// LINKED list all delete insert
 #include <stdio.h>
 
 // Linked List Node
