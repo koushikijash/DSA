@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #include<conio.h>
 // #include<alloc.h>
+
+
 struct node
 {
 int info;
@@ -192,13 +194,6 @@ void create()
 	ptr->link=first;
 	
 }
-
-
-
-
-
-
-
 
 void display()
 {
