@@ -6,6 +6,9 @@ struct node{
 	struct node *lptr;
 	struct node *rptr;
 };
+
+
+
 struct node *first;
 int info;
 //
@@ -134,6 +137,15 @@ beginsert()
 	
 
 
+
+
+
+
+///////////////////////////////////////////////create
+
+
+
+
  endinsert()
 	{
 		struct node *avail, *ptr1,*ptr;
@@ -169,7 +181,7 @@ beginsert()
     	////////////
 
 
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 begdelete()
 {
 	struct node *ptr;
